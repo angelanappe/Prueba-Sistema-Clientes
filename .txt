@@ -1,0 +1,6 @@
+RUN del cliente: 12345678
+Nombre del cliente: juan
+Apellido del cliente: lopez
+Años del cliente: 3
+Categoría del cliente: Inactivo
+----------------------------------------
